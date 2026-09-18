@@ -1,0 +1,1 @@
+<full CONTRIBUTING.md content>
