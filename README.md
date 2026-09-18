@@ -35,3 +35,12 @@ See [docs/NIA_INTEGRATION_CONTRACT.md](docs/NIA_INTEGRATION_CONTRACT.md) for the
 
 ## License
 This project is licensed under the MIT License.
+
+---
+
+## Badges
+
+![Build Status](https://img.shields.io/github/actions/workflow/status/jazzu72/Money-Munchkins--OS/flutter.yml?branch=main)
+![License](https://img.shields.io/github/license/jazzu72/Money-Munchkins--OS)
+![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
+![Security Policy](https://img.shields.io/badge/security-policy-blue.svg)
