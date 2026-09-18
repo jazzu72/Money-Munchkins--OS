@@ -1,1 +1,17 @@
-# Security Policy\n\n## Reporting Vulnerabilities\nIf you discover a security or privacy issue in Money Munchkins OS:\n\n- Do **not** disclose it publicly before review.\n- Report privately via GitHub Security Advisories or email the maintainers.\n- Include clear reproduction steps, impact assessment, and suggested mitigation if possible.\n\n## Child Safety\nAny vulnerability affecting child safety or privacy must be reported immediately.\n\n## Supported Versions\nWe currently support security updates for the latest **main** branch.\n\n---\nThank you for helping keep Money Munchkins OS safe for children and families.
+# Security Policy
+
+## Reporting Vulnerabilities
+If you discover a security or privacy issue in Money Munchkins OS:
+
+- Do **not** disclose it publicly before review.
+- Report privately via GitHub Security Advisories or email the maintainers.
+- Include clear reproduction steps, impact assessment, and suggested mitigation if possible.
+
+## Child Safety
+Any vulnerability affecting child safety or privacy must be reported immediately.
+
+## Supported Versions
+We currently support security updates for the latest **main** branch.
+
+---
+Thank you for helping keep Money Munchkins OS safe for children and families.
